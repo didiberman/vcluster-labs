@@ -2,7 +2,7 @@
 
 # vcluster-labs
 
-**Virtual Kubernetes clusters: The isolation of a real cluster at the cost of a namespace.**
+**Virtual Kubernetes clusters: The isolation of a real cluster at the cost of a Namespace.**
 
 ![vCluster](https://img.shields.io/badge/vCluster-F5821F?style=flat&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)

@@ -1,6 +1,6 @@
 <div align="center">
 
-# vcluster-labs
+# vCluster-labs
 
 **Virtual Kubernetes clusters: The isolation of a real cluster at the cost of a Namespace.**
 

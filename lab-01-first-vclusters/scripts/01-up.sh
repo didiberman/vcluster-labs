@@ -40,3 +40,4 @@ vcluster connect team-a --namespace vcluster-team-a --context "${HOST_CTX}" -- \
 
 echo
 echo "All up. Next: ./scripts/02-tour.sh"
+# THE END
